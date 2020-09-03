@@ -1,0 +1,148 @@
+.yo{
+font-family: trajan-color,serif;
+font-weight: 400;
+font-style: normal;
+color:black;
+}
+
+.image1{
+margin-right: 5%
+}
+
+#midportion{
+  width: 100%
+}
+.image3{
+  width:100%;
+
+}
+.textcarosel{
+    font-family: 'Anton', sans-serif;
+    font-size:5rem;
+}
+.paratext{
+font-family: 'Dosis', sans-serif;
+font-size: 1rem;
+}
+@media(max-width: 900px){
+    h5.textcarosel{
+        font-size:1.5rem;
+    }
+    p.paratext{
+        font-size:1rem;
+    }
+}
+
+.myimage{
+    width:100%;
+    padding:20% 10%;
+
+}
+
+.myself{
+    padding-top:20%;
+    font-family: 'Varela Round', sans-serif;
+    margin-top:30%;
+
+
+}
+
+.myselfpara{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight:500;
+    line-height:2;
+
+}
+
+@media  (max-width: 900px){
+  img.myimage{
+    padding-bottom: 2%;
+  }
+  h1.myself{
+    padding-top: 2%;
+    text-align: center;
+    margin-top: 2%;
+  }
+  p.myselfpara{
+    text-align: center;
+  }
+
+}
+#myself{
+  background-color: #faf0af;
+}
+
+
+
+
+.text{
+    font-family: 'Oswald', sans-serif;
+    text-align:center;
+    color:white;
+    padding-top:2%;
+    padding-bottom:2%;
+    font-size:4rem;
+}
+
+#photostyles{
+    padding-left:5%;
+    padding-right:5%;
+    z-index:2;
+    position:absolute;
+}
+.lol{
+    z-index:1;
+    position:absolute;
+
+}
+
+.textcard{
+    font-family: 'Rubik', sans-serif;
+    padding-top:2%;
+}
+
+.new{
+  z-index: 0;
+  position: absolute;
+}
+
+.one1{
+  margin-top: 2rem;
+}
+
+.cool{
+    background-color:white;
+    /* z-index: 0;
+    position:relative;
+    top: auto; */
+    height: 10%;
+    text-align: center;
+
+}
+
+.contact{
+  font-family: 'Josefin Sans', sans-serif;
+  padding-top: 1%;
+
+margin-bottom: 0px;
+  margin-top: 2.5%;
+  font-size: 2rem;
+  font-weight: 300;
+
+  /* font-weight: 500; */
+}
+hr{
+  border-width: 2px;
+  background-color: black;
+  width: 60%;
+
+}
+
+.fab{
+  padding:0 1% 0;
+}
+
+.last-text{
+font-family: 'Roboto', sans-serif;
+font-size: 0.7rem;
+}
